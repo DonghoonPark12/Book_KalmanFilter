@@ -18,12 +18,6 @@ def SimpleKalman(z):
     global A, Q, H, R
     global X, P
     if firstRun:
-        # A, Q = np.array([1]), np.array([0])
-        # H, R = np.array([1]), np.array([4])
-        #
-        # X = np.array([14])
-        # P = np.array([6])
-
         A, Q = 1,0
         H, R = 1,4
 

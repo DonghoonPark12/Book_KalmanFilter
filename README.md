@@ -25,6 +25,6 @@
   * [Chapter16. Complementary Filter]()
 
 ---
-### Additional Reference
-[Udacity_Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs373)  
-https://github.com/tbmoon/kalman_filter
+### Reference
+- [Udacity_Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs373)  
+- https://github.com/tbmoon/kalman_filter

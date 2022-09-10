@@ -25,7 +25,7 @@
   * [Chapter16. Complementary Filter](https://github.com/DonghunP/Book_KalmanFilter/blob/master/16_CompFilterWithPI.py)
   
   
-※ 저작권 문제가 있을수  위의 코드 실행에 필요한 .mat, .jpg는 지웠습니다. [한빛 미디어 홈페이지](https://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)에서 다운 받을 수 있습니다. 
+※ 저작권 문제가 있을 수 있어서 코드 실행에 필요한 .mat, .jpg는 지웠습니다. [한빛 미디어 홈페이지](https://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)에서 다운 받을 수 있습니다. 
 
 ---
 ### Reference

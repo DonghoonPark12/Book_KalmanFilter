@@ -21,8 +21,10 @@
   * [Chapter13. Unscented Kalman Filter](https://github.com/DonghunP/Book_KalmanFilter/blob/master/13_EulerUKF.py)
   * [Chapter14. Particle Filter](https://github.com/DonghunP/Book_KalmanFilter/blob/master/14_RadarPF.py)
 * **Part05. High Pass Filter and Complementary Filter**
-  * [Chapter15. High Pass Filter]()
-  * [Chapter16. Complementary Filter]()
+  * [Chapter15. High Pass Filter](https://github.com/DonghunP/Book_KalmanFilter/blob/master/15_HPF.py)
+  * [Chapter16. Complementary Filter](https://github.com/DonghunP/Book_KalmanFilter/blob/master/16_CompFilterWithPI.py)
+
+※ 저작권 문제가 있을 까봐 위의 코드 실행에 필요한 .mat, .jpg는 지웠습니다. [한빛 미디어 홈페이지](https://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)에서 다운 받을 수 있습니다. 
 
 ---
 ### Reference
